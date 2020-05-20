@@ -1,1 +1,1 @@
- https://trabalhom02.github.io
+ http://trabalhom02.github.io
